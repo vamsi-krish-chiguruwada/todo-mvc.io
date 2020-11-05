@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo-mvc.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/todo-mvc.io/static/js/main.f15b7895.chunk.js",
+    "main.js.map": "/todo-mvc.io/static/js/main.f15b7895.chunk.js.map",
+    "runtime-main.js": "/todo-mvc.io/static/js/runtime-main.59fee932.js",
+    "runtime-main.js.map": "/todo-mvc.io/static/js/runtime-main.59fee932.js.map",
+    "static/js/2.26feed05.chunk.js": "/todo-mvc.io/static/js/2.26feed05.chunk.js",
+    "static/js/2.26feed05.chunk.js.map": "/todo-mvc.io/static/js/2.26feed05.chunk.js.map",
+    "static/js/3.0292be2b.chunk.js": "/todo-mvc.io/static/js/3.0292be2b.chunk.js",
+    "static/js/3.0292be2b.chunk.js.map": "/todo-mvc.io/static/js/3.0292be2b.chunk.js.map",
+    "index.html": "/todo-mvc.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/todo-mvc.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.26feed05.chunk.js.LICENSE.txt": "/todo-mvc.io/static/js/2.26feed05.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/todo-mvc.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fee932.js",
+    "static/js/2.26feed05.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f15b7895.chunk.js"
+  ]
+}
